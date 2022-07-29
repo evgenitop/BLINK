@@ -1,1 +1,0 @@
-[FILE](./USD_GEL.MD)
