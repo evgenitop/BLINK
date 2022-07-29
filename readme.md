@@ -1,1 +1,1 @@
-[FILE](./USD_GEL.MD)
+[FILE](./USD_GEL.md)
